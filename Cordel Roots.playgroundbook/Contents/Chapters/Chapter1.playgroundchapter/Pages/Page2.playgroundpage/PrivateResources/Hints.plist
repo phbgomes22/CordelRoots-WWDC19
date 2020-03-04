@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>A mosquito Bite might hurt for a few Days</string>
+            <key>SpoilerButtonTitle</key>
+            <string>Show Spoiler</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>There is no need to Fear a Clay statue</string>
+            <key>SpoilerButtonTitle</key>
+            <string>Show Spoiler</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>A typical Brazilian dish has cow Meat and bean Seeds</string>
+            <key>SpoilerButtonTitle</key>
+            <string>Show Spoiler</string>
+		</dict>
+	</array>
+</dict>
+</plist>

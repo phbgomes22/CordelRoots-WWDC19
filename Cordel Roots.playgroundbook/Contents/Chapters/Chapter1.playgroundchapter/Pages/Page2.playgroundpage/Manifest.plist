@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Rhymes and Repentists</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>Link the letters by dragging your finger through them</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>The word you are looking for rhymes with the last word of the second verse</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+</dict>
+</plist>
