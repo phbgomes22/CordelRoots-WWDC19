@@ -2,8 +2,9 @@
 
 This repository contains the source code for **CordelRoots** - the Swift Playgroundbook for which I was selected for a WWDC 2019 Scholarship.
 
-
-![Cactus](cactus0.png)
+<p align="center">
+    <img width="171" height="230" src="cactus0.png">
+</p>
 
 #### Cordel
 
